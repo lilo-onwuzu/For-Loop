@@ -12,7 +12,8 @@
 	Count up to an input number in increments of another input number
 
 #### _Setup/Installation Requirements_
-	Clone this repository before setting up
+	Clone this repository
+	Open index.html file in browser
 	Enter a number to count up to
 	Enter a number to count by
 	Hit OK to move through counts
