@@ -1,23 +1,5 @@
-// $(document).ready(function(){
-//   var blanks = [1];
-//   $("form#multiplier").submit(function(event){
-//
-// var intNumber = parseInt($("input#number").val());
-//
-// blanks.forEach(function(blank){
-//   var total = (intNumber*blank);
-//   blanks.pop();
-//   blanks.push(total);
-//   console.log(total);
-//
-//   event.preventDefault();
-// });
-//
-//   });
-// });
 
 $(document).ready(function(){
-
   $("form#count").submit(function(event){
     event.preventDefault();
 
@@ -26,7 +8,6 @@ $(document).ready(function(){
     var test = (countToNumber/countByNumber);
 
     if (countByNumber&&countToNumber){
-
       if (test < 1){
         alert("Please enter valid inputs");
       } else {
