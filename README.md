@@ -1,19 +1,21 @@
 
 ## _Title_
-	Epicodus- Introduction to Programming - Arrays&Looping
+	Epicodus- Introduction to Programming - Divisor Counter
 	
 #### _Creator_
 	Lilo Onwuzu 
 	
 #### _Date_
-	03.30.2016
+	03.29.2016
 
 #### _Description_
-	
+	Count up to an input number in increments of another input number
 
 #### _Setup/Installation Requirements_
 	Clone this repository before setting up
-	Click to view description of the listed terms
+	Enter a number to count up to
+	Enter a number to count by
+	Hit OK to move through counts
 
 #### _Known Bugs_
  	None
