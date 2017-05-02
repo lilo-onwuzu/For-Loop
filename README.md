@@ -1,32 +1,32 @@
-# _For Loop Practice_
 
-#### _Web Application For Counting By One User Input up till another User Input 03.29.2016_
+## _Title_
+	Epicodus- Introduction to Programming - Arrays&Looping
+	
+#### _Creator_
+	Lilo Onwuzu 
+	
+#### _Date_
+	03.30.2016
 
-#### By _**Ililochi Onwuzu**_
+#### _Description_
+	
 
-## Description
+#### _Setup/Installation Requirements_
+	Clone this repository before setting up
+	Click to view description of the listed terms
 
-_Epicodus Technical Vocational Program. Introduction to Programming. Level One. Practice. Arrays & Looping_
+#### _Known Bugs_
+ 	None
 
-## Setup/Installation Requirements
+#### _Support and contact details_
+	lpr422@gmail.com
+	
+#### _Technologies Used_
+	HTML, Custom CSS, Bootstrap CSS, Javascript, JQuery
 
-* __
+#### _License_
+	This software is licensed under the MIT license
+	Copyright (c) 2016 IPONWUZU
 
 
-## Known Bugs
 
-_None_
-
-## Support and contact details
-
-_Email:lpr422@gmail.com_
-
-## Technologies Used
-
-_HTML, CSS, Javascript, Bootstrap_
-
-### License
-
-*This software is licensed under the MIT license.*
-
-Copyright (c) 2016 **_Onwuzu LPO, Inc._**
